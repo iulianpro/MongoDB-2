@@ -1,2 +1,5 @@
 env.py
 env.cpython-37.pyc
+.theia
+.gitpod.dockerfile
+.gitpod.yml
